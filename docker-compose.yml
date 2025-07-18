@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  # Backend Service
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/usr/src/app
+      - ./kagglehub_cache:/root/.cache/kagglehub
+    ports:
+      - '8888:8888'
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token=''

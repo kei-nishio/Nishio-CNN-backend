@@ -1,0 +1,15 @@
+# requirements.txt
+
+## データ取得・連携
+kagglehub==0.3.12 # Kaggleのモデル・データセット取得用APIラッパー
+
+## 数値計算・機械学習
+numpy==1.26.4 # 高速な数値計算ライブラリ（Python 3.12 & TF対応）
+pandas==2.2.3 # データフレーム処理用ライブラリ（numpy>=1.26.0要）
+tensorflow==2.19.0 # 深層学習ライブラリ（Python 3.12対応、numpy<2.2.0制限）
+
+## Jupyter開発環境
+jupyterlab==3.5.3 # Jupyterノートブックの次世代UI（Rust不要な最終バージョン）
+ipykernel==6.29.4 # JupyterでPythonコードを実行するカーネル
+ipywidgets==8.1.7 # Jupyterノートブック用のUIウィジェットライブラリ
+jupytext==1.17.2 # ノートブックと.py/.md等との相互変換ツール

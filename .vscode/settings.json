@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "/usr/local/bin/python",
+  "jupyter.jupyterServerType": "local",
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  }
+}
