@@ -2,7 +2,7 @@
   "name": "CNN Backend",
   "dockerComposeFile": "../docker-compose.yml",
   "service": "backend",
-  "workspaceFolder": "/usr/src/main",
+  "workspaceFolder": "/usr/src/app",
   "shutdownAction": "stopCompose",
 
   "customizations": {

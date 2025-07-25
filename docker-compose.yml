@@ -11,7 +11,7 @@ services:
     ports:
       - '8000:8000'
     environment:
-      - PYTHONPATH=/usr/src/main
+      - PYTHONPATH=/usr/src/app
       - PYTHONUNBUFFERED=1
-    working_dir: /usr/src/main
+    working_dir: /usr/src/app
     command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
