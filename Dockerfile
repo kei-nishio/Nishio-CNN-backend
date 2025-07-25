@@ -1,6 +1,6 @@
 FROM python:3.12-slim
 
-WORKDIR /usr/src/main
+WORKDIR /usr/src/app
 
 # 必要なパッケージ
 RUN apt-get update \
