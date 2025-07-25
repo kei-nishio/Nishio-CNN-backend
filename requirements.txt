@@ -6,7 +6,9 @@ kagglehub==0.3.12 # Kaggleのモデル・データセット取得用APIラッパ
 ## 数値計算・機械学習
 numpy==1.26.4 # 高速な数値計算ライブラリ（Python 3.12 & TF対応）
 pandas==2.2.3 # データフレーム処理用ライブラリ（numpy>=1.26.0要）
+scipy==1.13.1 # 科学技術計算ライブラリ
 tensorflow==2.19.0 # 深層学習ライブラリ（Python 3.12対応、numpy<2.2.0制限）
+pillow==10.3.0 # 画像処理ライブラリ
 
 ## Jupyter開発環境
 jupyterlab==3.5.3 # Jupyterノートブックの次世代UI（Rust不要な最終バージョン）
