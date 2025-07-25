@@ -1,15 +1,24 @@
 {
-  "name": "cnn image classification",
+  "name": "CNN Backend",
   "dockerComposeFile": "../docker-compose.yml",
   "service": "backend",
-  "workspaceFolder": "/usr/src/app",
+  "workspaceFolder": "/usr/src/main",
   "shutdownAction": "stopCompose",
 
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-python.python",
+        "bierner.markdown-mermaid",
         "charliermarsh.ruff",
+        "esbenp.prettier-vscode",
+        "github.copilot-chat",
+        "github.vscode-github-actions",
+        "mechatroner.rainbow-csv",
+        "mhutchie.git-graph",
+        "ms-python.black-formatter",
+        "ms-python.flake8",
+        "ms-python.isort",
+        "ms-python.python",
         "ms-toolsai.jupyter",
         "ms-toolsai.jupyter-keymap",
         "ms-toolsai.jupyter-renderers",
@@ -33,6 +42,7 @@
     }
   },
 
-  "forwardPorts": [8888], // Jupyter用の標準ポート
-  "postCreateCommand": "echo 'Welcome to your Jupyter environment in VSCode!'"
+  "forwardPorts": [8000],
+  "remoteUser": "root",
+  "postCreateCommand": "echo 'Welcome to FastAPI Backend!!!'"
 }

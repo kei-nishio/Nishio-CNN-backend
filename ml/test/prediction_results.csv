@@ -1,0 +1,501 @@
+画像ID,正解,Top1予測,Top2予測,Top3予測
+1,air hockey,cheerleading,air hockey,table tennis
+2,air hockey,volleyball,air hockey,hockey
+3,air hockey,air hockey,table tennis,sailboat racing
+4,air hockey,pole vault,rings,archery
+5,air hockey,air hockey,cheerleading,hurdles
+6,ampute football,cheerleading,bmx,tug of war
+7,ampute football,horse jumping,football,field hockey
+8,ampute football,bull riding,rollerblade racing,tug of war
+9,ampute football,ampute football,wheelchair basketball,lacrosse
+10,ampute football,lacrosse,field hockey,ultimate
+11,archery,cheerleading,tug of war,archery
+12,archery,ski jumping,pole vault,skydiving
+13,archery,speed skating,archery,bobsled
+14,archery,fly fishing,rowing,billiards
+15,archery,archery,hockey,sumo wrestling
+16,arm wrestling,sumo wrestling,shuffleboard,arm wrestling
+17,arm wrestling,olympic wrestling,pole dancing,sumo wrestling
+18,arm wrestling,arm wrestling,barell racing,javelin
+19,arm wrestling,shuffleboard,arm wrestling,sumo wrestling
+20,arm wrestling,arm wrestling,sumo wrestling,shuffleboard
+21,axe throwing,archery,skydiving,ski jumping
+22,axe throwing,axe throwing,rock climbing,horseshoe pitching
+23,axe throwing,axe throwing,air hockey,surfing
+24,axe throwing,axe throwing,rock climbing,pole vault
+25,axe throwing,tug of war,rugby,horse jumping
+26,balance beam,balance beam,bowling,sumo wrestling
+27,balance beam,balance beam,pommel horse,sumo wrestling
+28,balance beam,parallel bar,uneven bars,balance beam
+29,balance beam,uneven bars,olympic wrestling,balance beam
+30,balance beam,balance beam,uneven bars,shot put
+31,barell racing,barell racing,bull riding,swimming
+32,barell racing,barell racing,tug of war,sumo wrestling
+33,barell racing,bull riding,barell racing,horse jumping
+34,barell racing,bull riding,barell racing,bmx
+35,barell racing,barell racing,wheelchair basketball,tug of war
+36,baseball,uneven bars,javelin,football
+37,baseball,cricket,archery,baseball
+38,baseball,cheerleading,football,bull riding
+39,baseball,nascar racing,sidecar racing,javelin
+40,baseball,high jump,fencing,basketball
+41,basketball,basketball,jousting,archery
+42,basketball,cheerleading,basketball,rollerblade racing
+43,basketball,basketball,volleyball,sumo wrestling
+44,basketball,volleyball,basketball,wheelchair basketball
+45,basketball,wheelchair basketball,basketball,cheerleading
+46,baton twirling,pole vault,tennis,bungee jumping
+47,baton twirling,shuffleboard,air hockey,baton twirling
+48,baton twirling,bobsled,pommel horse,luge
+49,baton twirling,jai alai,pole vault,bungee jumping
+50,baton twirling,disc golf,bike polo,shot put
+51,bike polo,bike polo,rollerblade racing,wheelchair racing
+52,bike polo,track bicycle,bmx,bike polo
+53,bike polo,bike polo,bmx,harness racing
+54,bike polo,cheerleading,hurdles,bmx
+55,bike polo,rowing,lacrosse,tug of war
+56,billiards,billiards,hurdles,high jump
+57,billiards,billiards,lacrosse,rugby
+58,billiards,billiards,table tennis,basketball
+59,billiards,billiards,table tennis,air hockey
+60,billiards,billiards,field hockey,tennis
+61,bmx,disc golf,ultimate,frisbee
+62,bmx,sky surfing,trapeze,bungee jumping
+63,bmx,bmx,bike polo,wheelchair racing
+64,bmx,wheelchair basketball,rowing,bmx
+65,bmx,hockey,curling,football
+66,bobsled,motorcycle racing,formula 1 racing,sidecar racing
+67,bobsled,luge,bobsled,snowmobile racing
+68,bobsled,snowmobile racing,hockey,formula 1 racing
+69,bobsled,snowmobile racing,sidecar racing,bobsled
+70,bobsled,snowmobile racing,motorcycle racing,javelin
+71,bowling,judo,shuffleboard,arm wrestling
+72,bowling,volleyball,shuffleboard,basketball
+73,bowling,basketball,baseball,bowling
+74,bowling,bmx,gaga,roller derby
+75,bowling,basketball,bowling,baseball
+76,boxing,boxing,olympic wrestling,shot put
+77,boxing,boxing,basketball,volleyball
+78,boxing,boxing,parallel bar,hockey
+79,boxing,wheelchair basketball,boxing,formula 1 racing
+80,boxing,boxing,basketball,wheelchair basketball
+81,bull riding,bull riding,lacrosse,football
+82,bull riding,bull riding,basketball,jousting
+83,bull riding,bmx,horse jumping,hurdles
+84,bull riding,bull riding,chuckwagon racing,barell racing
+85,bull riding,bull riding,basketball,wheelchair basketball
+86,bungee jumping,fly fishing,disc golf,bmx
+87,bungee jumping,archery,sailboat racing,ice climbing
+88,bungee jumping,bungee jumping,roller derby,pole vault
+89,bungee jumping,giant slalom,luge,trapeze
+90,bungee jumping,disc golf,field hockey,rowing
+91,canoe slamon,ice climbing,giant slalom,canoe slamon
+92,canoe slamon,bmx,rowing,bike polo
+93,canoe slamon,bmx,canoe slamon,motorcycle racing
+94,canoe slamon,bmx,sailboat racing,rowing
+95,canoe slamon,canoe slamon,snowmobile racing,rowing
+96,cheerleading,giant slalom,snowmobile racing,bobsled
+97,cheerleading,bmx,cheerleading,ampute football
+98,cheerleading,cheerleading,hurdles,basketball
+99,cheerleading,basketball,tug of war,cheerleading
+100,cheerleading,jousting,wheelchair basketball,horse racing
+101,chuckwagon racing,wheelchair racing,bmx,bike polo
+102,chuckwagon racing,chuckwagon racing,roller derby,wheelchair basketball
+103,chuckwagon racing,chuckwagon racing,bmx,cheerleading
+104,chuckwagon racing,bull riding,jousting,barell racing
+105,chuckwagon racing,bull riding,chuckwagon racing,track bicycle
+106,cricket,cricket,croquet,football
+107,cricket,lacrosse,football,rugby
+108,cricket,bmx,jousting,harness racing
+109,cricket,cricket,golf,frisbee
+110,cricket,cricket,croquet,tennis
+111,croquet,croquet,golf,ultimate
+112,croquet,field hockey,frisbee,croquet
+113,croquet,tug of war,disc golf,ampute football
+114,croquet,croquet,ultimate,golf
+115,croquet,tug of war,croquet,football
+116,curling,curling,speed skating,hockey
+117,curling,roller derby,curling,tug of war
+118,curling,curling,speed skating,roller derby
+119,curling,curling,olympic wrestling,speed skating
+120,curling,javelin,balance beam,olympic wrestling
+121,disc golf,disc golf,horse jumping,jousting
+122,disc golf,disc golf,croquet,archery
+123,disc golf,disc golf,frisbee,golf
+124,disc golf,bmx,horse jumping,tug of war
+125,disc golf,archery,rollerblade racing,fly fishing
+126,fencing,field hockey,tug of war,hammer throw
+127,fencing,fencing,roller derby,volleyball
+128,fencing,bobsled,air hockey,gaga
+129,fencing,roller derby,fencing,volleyball
+130,fencing,pommel horse,rollerblade racing,figure skating pairs
+131,field hockey,field hockey,hydroplane racing,rowing
+132,field hockey,ultimate,football,field hockey
+133,field hockey,billiards,field hockey,table tennis
+134,field hockey,field hockey,cheerleading,table tennis
+135,field hockey,field hockey,lacrosse,ampute football
+136,figure skating men,figure skating men,speed skating,figure skating pairs
+137,figure skating men,figure skating men,speed skating,snow boarding
+138,figure skating men,figure skating pairs,speed skating,figure skating men
+139,figure skating men,figure skating men,speed skating,figure skating pairs
+140,figure skating men,figure skating men,figure skating pairs,figure skating women
+141,figure skating pairs,speed skating,figure skating pairs,figure skating women
+142,figure skating pairs,curling,speed skating,figure skating pairs
+143,figure skating pairs,hockey,trapeze,figure skating pairs
+144,figure skating pairs,roller derby,figure skating pairs,olympic wrestling
+145,figure skating pairs,figure skating pairs,ski jumping,speed skating
+146,figure skating women,figure skating pairs,figure skating women,sumo wrestling
+147,figure skating women,figure skating women,figure skating pairs,figure skating men
+148,figure skating women,speed skating,figure skating pairs,figure skating women
+149,figure skating women,snow boarding,ski jumping,speed skating
+150,figure skating women,figure skating pairs,figure skating women,speed skating
+151,fly fishing,fly fishing,tennis,hurdles
+152,fly fishing,bmx,tug of war,bungee jumping
+153,fly fishing,horse jumping,bmx,disc golf
+154,fly fishing,fly fishing,rowing,bmx
+155,fly fishing,fly fishing,frisbee,disc golf
+156,football,football,lacrosse,motorcycle racing
+157,football,horse jumping,table tennis,volleyball
+158,football,football,horse jumping,horse racing
+159,football,wheelchair basketball,cheerleading,weightlifting
+160,football,bmx,cheerleading,football
+161,formula 1 racing,formula 1 racing,nascar racing,sidecar racing
+162,formula 1 racing,formula 1 racing,sidecar racing,nascar racing
+163,formula 1 racing,sidecar racing,formula 1 racing,nascar racing
+164,formula 1 racing,snowmobile racing,motorcycle racing,formula 1 racing
+165,formula 1 racing,nascar racing,formula 1 racing,motorcycle racing
+166,frisbee,bmx,croquet,baseball
+167,frisbee,snowmobile racing,rowing,speed skating
+168,frisbee,bowling,pole vault,ski jumping
+169,frisbee,ski jumping,baton twirling,water polo
+170,frisbee,fly fishing,ice climbing,trapeze
+171,gaga,bmx,rollerblade racing,track bicycle
+172,gaga,bmx,bike polo,gaga
+173,gaga,chuckwagon racing,jousting,horse racing
+174,gaga,formula 1 racing,nascar racing,gaga
+175,gaga,tug of war,high jump,gaga
+176,giant slalom,giant slalom,snowmobile racing,ski jumping
+177,giant slalom,giant slalom,snowmobile racing,luge
+178,giant slalom,giant slalom,mushing,canoe slamon
+179,giant slalom,giant slalom,bobsled,canoe slamon
+180,giant slalom,giant slalom,snowmobile racing,bobsled
+181,golf,bungee jumping,tug of war,ultimate
+182,golf,lacrosse,canoe slamon,football
+183,golf,pole vault,ski jumping,high jump
+184,golf,horse jumping,archery,high jump
+185,golf,golf,tug of war,croquet
+186,hammer throw,hammer throw,javelin,football
+187,hammer throw,sailboat racing,cheerleading,hammer throw
+188,hammer throw,chuckwagon racing,hammer throw,bmx
+189,hammer throw,wheelchair basketball,hammer throw,cheerleading
+190,hammer throw,hammer throw,water cycling,rowing
+191,hang gliding,skydiving,ski jumping,bmx
+192,hang gliding,giant slalom,wheelchair racing,snowmobile racing
+193,hang gliding,hang gliding,high jump,tennis
+194,hang gliding,hang gliding,canoe slamon,trapeze
+195,hang gliding,skydiving,hang gliding,ski jumping
+196,harness racing,harness racing,roller derby,tug of war
+197,harness racing,harness racing,bmx,bull riding
+198,harness racing,harness racing,rollerblade racing,motorcycle racing
+199,harness racing,harness racing,tug of war,roller derby
+200,harness racing,motorcycle racing,bike polo,wheelchair racing
+201,high jump,high jump,javelin,rollerblade racing
+202,high jump,high jump,olympic wrestling,football
+203,high jump,high jump,hurdles,volleyball
+204,high jump,high jump,pole vault,uneven bars
+205,high jump,olympic wrestling,high jump,cheerleading
+206,hockey,hockey,cheerleading,tug of war
+207,hockey,curling,track bicycle,motorcycle racing
+208,hockey,speed skating,hockey,snowmobile racing
+209,hockey,hockey,snowmobile racing,canoe slamon
+210,hockey,hockey,bike polo,harness racing
+211,horse jumping,horse jumping,cheerleading,pommel horse
+212,horse jumping,parallel bar,wheelchair basketball,horse jumping
+213,horse jumping,hammer throw,bull riding,cheerleading
+214,horse jumping,uneven bars,rowing,parallel bar
+215,horse jumping,horse jumping,polo,horse racing
+216,horse racing,horse racing,harness racing,polo
+217,horse racing,horse racing,harness racing,horse jumping
+218,horse racing,horse racing,polo,football
+219,horse racing,horse racing,polo,tug of war
+220,horse racing,horse racing,bmx,roller derby
+221,horseshoe pitching,horseshoe pitching,golf,rock climbing
+222,horseshoe pitching,cheerleading,air hockey,rings
+223,horseshoe pitching,ultimate,tug of war,ampute football
+224,horseshoe pitching,hammer throw,bmx,fencing
+225,horseshoe pitching,bull riding,horse jumping,rock climbing
+226,hurdles,cheerleading,bmx,ski jumping
+227,hurdles,hurdles,rings,cheerleading
+228,hurdles,nascar racing,weightlifting,bmx
+229,hurdles,cheerleading,horse jumping,field hockey
+230,hurdles,wheelchair basketball,hockey,hurdles
+231,hydroplane racing,nascar racing,formula 1 racing,canoe slamon
+232,hydroplane racing,rowing,water polo,cheerleading
+233,hydroplane racing,hydroplane racing,nascar racing,bobsled
+234,hydroplane racing,hydroplane racing,pole dancing,air hockey
+235,hydroplane racing,hydroplane racing,luge,tug of war
+236,ice climbing,ice climbing,surfing,sailboat racing
+237,ice climbing,snowmobile racing,giant slalom,canoe slamon
+238,ice climbing,ice climbing,giant slalom,sailboat racing
+239,ice climbing,ice climbing,snow boarding,giant slalom
+240,ice climbing,ice climbing,skydiving,snow boarding
+241,ice yachting,rowing,bungee jumping,bike polo
+242,ice yachting,ice yachting,sailboat racing,rowing
+243,ice yachting,ice yachting,rowing,nascar racing
+244,ice yachting,ice yachting,rowing,sailboat racing
+245,ice yachting,ice yachting,rowing,sailboat racing
+246,jai alai,jai alai,water cycling,fly fishing
+247,jai alai,rollerblade racing,tennis,lacrosse
+248,jai alai,jai alai,lacrosse,pole vault
+249,jai alai,jai alai,wingsuit flying,tennis
+250,jai alai,jai alai,sky surfing,bungee jumping
+251,javelin,roller derby,tug of war,volleyball
+252,javelin,table tennis,boxing,baton twirling
+253,javelin,javelin,basketball,table tennis
+254,javelin,sumo wrestling,basketball,javelin
+255,javelin,javelin,cheerleading,basketball
+256,jousting,horse racing,polo,jousting
+257,jousting,jousting,horse racing,chuckwagon racing
+258,jousting,jousting,bmx,horse racing
+259,jousting,jousting,rugby,wheelchair basketball
+260,jousting,cheerleading,jousting,tug of war
+261,judo,judo,hammer throw,olympic wrestling
+262,judo,surfing,pole vault,trapeze
+263,judo,judo,olympic wrestling,baseball
+264,judo,judo,bmx,speed skating
+265,judo,judo,cheerleading,pole vault
+266,lacrosse,lacrosse,football,hurdles
+267,lacrosse,lacrosse,football,jousting
+268,lacrosse,lacrosse,rugby,jousting
+269,lacrosse,lacrosse,field hockey,horse jumping
+270,lacrosse,cheerleading,field hockey,javelin
+271,log rolling,horse jumping,shot put,ampute football
+272,log rolling,billiards,air hockey,log rolling
+273,log rolling,bull riding,tug of war,chuckwagon racing
+274,log rolling,roller derby,harness racing,tug of war
+275,log rolling,hammer throw,horse jumping,hurdles
+276,luge,luge,ski jumping,snowmobile racing
+277,luge,luge,snowmobile racing,speed skating
+278,luge,luge,figure skating women,sumo wrestling
+279,luge,snowmobile racing,luge,wingsuit flying
+280,luge,ice climbing,skydiving,snow boarding
+281,motorcycle racing,sidecar racing,nascar racing,motorcycle racing
+282,motorcycle racing,motorcycle racing,sidecar racing,formula 1 racing
+283,motorcycle racing,motorcycle racing,bmx,roller derby
+284,motorcycle racing,snowmobile racing,sidecar racing,formula 1 racing
+285,motorcycle racing,motorcycle racing,formula 1 racing,sidecar racing
+286,mushing,mushing,bmx,bike polo
+287,mushing,hockey,mushing,ice climbing
+288,mushing,mushing,tug of war,cheerleading
+289,mushing,bike polo,hockey,volleyball
+290,mushing,mushing,bike polo,rollerblade racing
+291,nascar racing,nascar racing,formula 1 racing,sidecar racing
+292,nascar racing,nascar racing,formula 1 racing,sidecar racing
+293,nascar racing,bobsled,luge,sidecar racing
+294,nascar racing,nascar racing,rowing,formula 1 racing
+295,nascar racing,formula 1 racing,nascar racing,sidecar racing
+296,olympic wrestling,football,hockey,rugby
+297,olympic wrestling,wheelchair basketball,olympic wrestling,rings
+298,olympic wrestling,rowing,hurdles,uneven bars
+299,olympic wrestling,horse jumping,olympic wrestling,rollerblade racing
+300,olympic wrestling,pole vault,pommel horse,table tennis
+301,parallel bar,balance beam,parallel bar,pommel horse
+302,parallel bar,uneven bars,parallel bar,ice yachting
+303,parallel bar,parallel bar,uneven bars,formula 1 racing
+304,parallel bar,olympic wrestling,pommel horse,hurdles
+305,parallel bar,uneven bars,table tennis,parallel bar
+306,pole climbing,bmx,basketball,axe throwing
+307,pole climbing,bobsled,cheerleading,pole climbing
+308,pole climbing,trapeze,pole climbing,ice climbing
+309,pole climbing,pole climbing,shot put,rugby
+310,pole climbing,pole climbing,sky surfing,bobsled
+311,pole dancing,rowing,pole dancing,swimming
+312,pole dancing,pole vault,bmx,speed skating
+313,pole dancing,rowing,formula 1 racing,javelin
+314,pole dancing,volleyball,figure skating pairs,figure skating women
+315,pole dancing,pole climbing,volleyball,water polo
+316,pole vault,ski jumping,ice climbing,rowing
+317,pole vault,water polo,canoe slamon,pole vault
+318,pole vault,snowmobile racing,wheelchair racing,hurdles
+319,pole vault,pole vault,sky surfing,shot put
+320,pole vault,skydiving,rollerblade racing,tennis
+321,polo,polo,horse racing,bmx
+322,polo,horse racing,harness racing,polo
+323,polo,polo,horse racing,ultimate
+324,polo,polo,jousting,horse racing
+325,polo,polo,horse racing,jousting
+326,pommel horse,pommel horse,rings,hammer throw
+327,pommel horse,hurdles,basketball,parallel bar
+328,pommel horse,fencing,bmx,pommel horse
+329,pommel horse,pommel horse,fencing,olympic wrestling
+330,pommel horse,pommel horse,rings,fencing
+331,rings,rings,table tennis,air hockey
+332,rings,rings,weightlifting,cheerleading
+333,rings,weightlifting,rings,basketball
+334,rings,fencing,rings,baton twirling
+335,rings,rings,olympic wrestling,high jump
+336,rock climbing,horse racing,bmx,rock climbing
+337,rock climbing,fly fishing,ski jumping,rock climbing
+338,rock climbing,rock climbing,chuckwagon racing,hammer throw
+339,rock climbing,rock climbing,wheelchair basketball,bmx
+340,rock climbing,rock climbing,chuckwagon racing,hammer throw
+341,roller derby,snowmobile racing,tug of war,roller derby
+342,roller derby,roller derby,mushing,cheerleading
+343,roller derby,roller derby,harness racing,polo
+344,roller derby,hammer throw,rowing,tug of war
+345,roller derby,roller derby,wheelchair basketball,cheerleading
+346,rollerblade racing,tug of war,pole vault,rollerblade racing
+347,rollerblade racing,volleyball,basketball,wheelchair basketball
+348,rollerblade racing,olympic wrestling,hurdles,football
+349,rollerblade racing,rollerblade racing,basketball,cheerleading
+350,rollerblade racing,rollerblade racing,football,cheerleading
+351,rowing,formula 1 racing,motorcycle racing,bmx
+352,rowing,rowing,hurdles,cheerleading
+353,rowing,rollerblade racing,skydiving,rowing
+354,rowing,rowing,canoe slamon,wheelchair basketball
+355,rowing,rowing,canoe slamon,horse jumping
+356,rugby,wheelchair basketball,olympic wrestling,hockey
+357,rugby,rugby,lacrosse,wheelchair basketball
+358,rugby,ultimate,football,lacrosse
+359,rugby,rugby,lacrosse,football
+360,rugby,rugby,lacrosse,football
+361,sailboat racing,sailboat racing,rowing,ice yachting
+362,sailboat racing,sailboat racing,canoe slamon,snow boarding
+363,sailboat racing,rowing,sailboat racing,cheerleading
+364,sailboat racing,sailboat racing,skydiving,canoe slamon
+365,sailboat racing,sailboat racing,ice yachting,hang gliding
+366,shot put,basketball,javelin,sumo wrestling
+367,shot put,olympic wrestling,pommel horse,javelin
+368,shot put,wheelchair basketball,nascar racing,wheelchair racing
+369,shot put,baseball,rings,football
+370,shot put,trapeze,tug of war,jai alai
+371,shuffleboard,shuffleboard,axe throwing,gaga
+372,shuffleboard,shuffleboard,pole dancing,sumo wrestling
+373,shuffleboard,shuffleboard,pole dancing,pole vault
+374,shuffleboard,bowling,volleyball,balance beam
+375,shuffleboard,shuffleboard,sumo wrestling,judo
+376,sidecar racing,nascar racing,tug of war,formula 1 racing
+377,sidecar racing,nascar racing,formula 1 racing,wheelchair basketball
+378,sidecar racing,motorcycle racing,wheelchair basketball,roller derby
+379,sidecar racing,nascar racing,snowmobile racing,sidecar racing
+380,sidecar racing,snowmobile racing,canoe slamon,sailboat racing
+381,ski jumping,skydiving,ski jumping,luge
+382,ski jumping,speed skating,ski jumping,snow boarding
+383,ski jumping,ski jumping,bmx,skydiving
+384,ski jumping,bmx,ski jumping,rowing
+385,ski jumping,ski jumping,pole vault,speed skating
+386,sky surfing,skydiving,ski jumping,snow boarding
+387,sky surfing,sky surfing,skydiving,weightlifting
+388,sky surfing,sky surfing,snowmobile racing,skydiving
+389,sky surfing,ski jumping,snow boarding,skydiving
+390,sky surfing,sky surfing,speed skating,skydiving
+391,skydiving,skydiving,rowing,tug of war
+392,skydiving,skydiving,snowmobile racing,ski jumping
+393,skydiving,skydiving,rowing,ski jumping
+394,skydiving,speed skating,skydiving,snow boarding
+395,skydiving,skydiving,sky surfing,canoe slamon
+396,snow boarding,ice climbing,canoe slamon,snow boarding
+397,snow boarding,canoe slamon,surfing,bmx
+398,snow boarding,water cycling,skydiving,sky surfing
+399,snow boarding,giant slalom,snowmobile racing,ice climbing
+400,snow boarding,snow boarding,bmx,ski jumping
+401,snowmobile racing,nascar racing,hydroplane racing,luge
+402,snowmobile racing,rowing,hammer throw,snowmobile racing
+403,snowmobile racing,snowmobile racing,rowing,bmx
+404,snowmobile racing,hockey,giant slalom,snowmobile racing
+405,snowmobile racing,snowmobile racing,luge,sidecar racing
+406,speed skating,speed skating,motorcycle racing,skydiving
+407,speed skating,bobsled,tug of war,motorcycle racing
+408,speed skating,curling,speed skating,hockey
+409,speed skating,roller derby,speed skating,field hockey
+410,speed skating,ski jumping,speed skating,snow boarding
+411,steer wrestling,bull riding,steer wrestling,barell racing
+412,steer wrestling,water cycling,curling,hurdles
+413,steer wrestling,bmx,motorcycle racing,rock climbing
+414,steer wrestling,horse racing,tug of war,harness racing
+415,steer wrestling,horse racing,horse jumping,harness racing
+416,sumo wrestling,sumo wrestling,bull riding,tug of war
+417,sumo wrestling,axe throwing,volleyball,barell racing
+418,sumo wrestling,sumo wrestling,judo,rollerblade racing
+419,sumo wrestling,sumo wrestling,bmx,roller derby
+420,sumo wrestling,shot put,baseball,judo
+421,surfing,surfing,sailboat racing,water cycling
+422,surfing,skydiving,surfing,sailboat racing
+423,surfing,surfing,ice climbing,ski jumping
+424,surfing,mushing,tug of war,pole vault
+425,surfing,surfing,skydiving,ice climbing
+426,swimming,rowing,nascar racing,skydiving
+427,swimming,volleyball,water polo,water cycling
+428,swimming,swimming,water polo,rowing
+429,swimming,rowing,hurdles,swimming
+430,swimming,swimming,water polo,rowing
+431,table tennis,sky surfing,giant slalom,skydiving
+432,table tennis,table tennis,pommel horse,air hockey
+433,table tennis,field hockey,cheerleading,rugby
+434,table tennis,uneven bars,pole vault,basketball
+435,table tennis,table tennis,uneven bars,parallel bar
+436,tennis,water polo,tennis,swimming
+437,tennis,ski jumping,football,baton twirling
+438,tennis,archery,fencing,fly fishing
+439,tennis,air hockey,bowling,ski jumping
+440,tennis,volleyball,tennis,basketball
+441,track bicycle,track bicycle,rollerblade racing,high jump
+442,track bicycle,track bicycle,motorcycle racing,bike polo
+443,track bicycle,track bicycle,bmx,wheelchair racing
+444,track bicycle,track bicycle,motorcycle racing,wheelchair basketball
+445,track bicycle,bike polo,wheelchair racing,cheerleading
+446,trapeze,pole vault,figure skating pairs,archery
+447,trapeze,rowing,snowmobile racing,canoe slamon
+448,trapeze,luge,bobsled,giant slalom
+449,trapeze,trapeze,tennis,pole climbing
+450,trapeze,trapeze,table tennis,hammer throw
+451,tug of war,ultimate,hammer throw,football
+452,tug of war,tug of war,ultimate,horse racing
+453,tug of war,cheerleading,football,horse jumping
+454,tug of war,track bicycle,wheelchair basketball,bmx
+455,tug of war,cheerleading,tug of war,wheelchair basketball
+456,ultimate,jousting,ultimate,archery
+457,ultimate,cheerleading,bmx,wheelchair basketball
+458,ultimate,lacrosse,rugby,football
+459,ultimate,tug of war,ultimate,polo
+460,ultimate,field hockey,rugby,lacrosse
+461,uneven bars,uneven bars,parallel bar,boxing
+462,uneven bars,basketball,sumo wrestling,cheerleading
+463,uneven bars,parallel bar,uneven bars,pommel horse
+464,uneven bars,uneven bars,parallel bar,basketball
+465,uneven bars,boxing,rings,uneven bars
+466,volleyball,volleyball,basketball,cheerleading
+467,volleyball,baton twirling,football,rugby
+468,volleyball,rollerblade racing,volleyball,horse jumping
+469,volleyball,volleyball,hammer throw,pole vault
+470,volleyball,volleyball,horse jumping,basketball
+471,water cycling,water cycling,rowing,swimming
+472,water cycling,water cycling,bungee jumping,sky surfing
+473,water cycling,water cycling,bmx,horse jumping
+474,water cycling,water cycling,hammer throw,horse jumping
+475,water cycling,water cycling,bobsled,snow boarding
+476,water polo,water polo,swimming,volleyball
+477,water polo,water cycling,swimming,water polo
+478,water polo,water polo,volleyball,cheerleading
+479,water polo,water polo,swimming,surfing
+480,water polo,swimming,water polo,water cycling
+481,weightlifting,weightlifting,sky surfing,gaga
+482,weightlifting,weightlifting,curling,shuffleboard
+483,weightlifting,weightlifting,sky surfing,gaga
+484,weightlifting,weightlifting,javelin,tug of war
+485,weightlifting,weightlifting,pole vault,tennis
+486,wheelchair basketball,wheelchair basketball,rowing,cheerleading
+487,wheelchair basketball,hurdles,hockey,wheelchair basketball
+488,wheelchair basketball,wheelchair basketball,hammer throw,basketball
+489,wheelchair basketball,wheelchair basketball,formula 1 racing,table tennis
+490,wheelchair basketball,basketball,wheelchair basketball,cheerleading
+491,wheelchair racing,harness racing,tug of war,horse racing
+492,wheelchair racing,bmx,hammer throw,volleyball
+493,wheelchair racing,wheelchair basketball,wheelchair racing,track bicycle
+494,wheelchair racing,bmx,roller derby,wheelchair racing
+495,wheelchair racing,bmx,harness racing,hurdles
+496,wingsuit flying,formula 1 racing,nascar racing,water cycling
+497,wingsuit flying,wingsuit flying,luge,bobsled
+498,wingsuit flying,hammer throw,tennis,canoe slamon
+499,wingsuit flying,track bicycle,motorcycle racing,wheelchair racing
+500,wingsuit flying,hammer throw,snowmobile racing,speed skating

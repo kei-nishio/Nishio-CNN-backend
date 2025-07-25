@@ -7,18 +7,13 @@ __pycache__/
 .ipynb_checkpoints
 
 # Large data files
-backend/data/raw/*
-backend/data/processed/*
-!backend/data/raw/test-data.csv
-!backend/data/raw/train-data.csv
+ml/data/raw/*
+ml/data/processed/*
+!ml/data/raw/test-data.csv
+!ml/data/raw/train-data.csv
 
 # Machine Learning Models
-backend/ml/models/*
-backend/ml/metrics/*
-backend/ml/selected_features/*
-
-# Evaluation output files
-backend/evaluation/evaluation_output/*
+ml/models/*
 
 # Environment variables
 .env

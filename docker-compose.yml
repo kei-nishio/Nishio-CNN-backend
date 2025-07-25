@@ -9,7 +9,9 @@ services:
       - .:/usr/src/app
       - ./kagglehub_cache:/root/.cache/kagglehub
     ports:
-      - '8888:8888'
+      - '8000:8000'
     environment:
+      - PYTHONPATH=/usr/src/main
       - PYTHONUNBUFFERED=1
-    command: jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token=''
+    working_dir: /usr/src/main
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload

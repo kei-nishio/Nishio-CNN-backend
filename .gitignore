@@ -8,21 +8,13 @@ __pycache__/
 
 # Large data files
 kagglehub_cache/**
-sample_cnn/**
-backend/data/raw/*
-backend/data/processed/*
-!backend/data/raw/test-data.csv
-!backend/data/raw/train-data.csv
+ml/data/raw/*
+ml/data/processed/*
+!ml/data/raw/test-data.csv
+!ml/data/raw/train-data.csv
 
 # Machine Learning Models
-backend/ml/models/*
-backend/ml/metrics/*
-backend/ml/selected_features/*
-
-# Evaluation output files
-backend/evaluation/evaluation_output/*
-
-# Streamlit generated files
+ml/models/*
 
 # Environment variables
 .env

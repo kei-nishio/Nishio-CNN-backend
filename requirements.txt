@@ -1,5 +1,10 @@
 # requirements.txt
 
+## Webアプリケーション
+fastapi==0.104.1 # 高速なWebAPIフレームワーク
+uvicorn==0.24.0 # ASGIサーバー
+python-multipart==0.0.6 # ファイルアップロード用
+
 ## データ取得・連携
 kagglehub==0.3.12 # Kaggleのモデル・データセット取得用APIラッパー
 
