@@ -15,7 +15,7 @@ MODEL_PATH = BASE_DIR / 'ml' / 'model.h5'
 CLASS_INDICES_PATH = BASE_DIR / 'ml' / 'class_indices.json'
 
 # 設定値
-IMG_SIZE = (224, 224)
+IMG_SIZE = (64, 64)  # ml.ipynbで学習したモデルのサイズに合わせる
 CONFIDENCE_THRESHOLD = 0.3  # この値未満は「不明」とする
 
 app = FastAPI(title='Sports Classification API', version='1.0.0')
