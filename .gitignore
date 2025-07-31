@@ -14,7 +14,7 @@ ml/data/processed/*
 !ml/data/raw/train-data.csv
 
 # Machine Learning Models
-ml/models/*
+ml/model/*
 
 # Environment variables
 .env
