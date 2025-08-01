@@ -267,6 +267,12 @@ history = cnn.fit(
 # %% [markdown]
 # ### 評価と保存（＋分類レポートと混同行列）
 # %%
+from sklearn.metrics import classification_report, confusion_matrix
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# %%
 eval_results = cnn.evaluate(valid_set)
 print("\n===== 評価結果 (evaluate) =====")
 metrics_report = dict(zip(cnn.metrics_names, eval_results))
@@ -280,10 +286,6 @@ for metric in ["val_accuracy", "val_top3_acc", "val_top5_acc"]:
         print(f"{metric} : {val_list[-1]:.4f}")
     else:
         print(f"{metric} : 指標が見つかりません")
-
-# sklearnによる詳細評価
-from sklearn.metrics import classification_report, confusion_matrix
-import numpy as np
 
 # 正解ラベルと予測ラベル
 y_true = valid_set.classes
@@ -300,9 +302,6 @@ cm = confusion_matrix(y_true, y_pred)
 print(cm)
 
 # 可視化（オプション）
-import seaborn as sns
-import matplotlib.pyplot as plt
-
 plt.figure(figsize=(12, 10))
 sns.heatmap(cm, annot=False, cmap="Blues", fmt="d")
 plt.title("Confusion Matrix")
