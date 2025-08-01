@@ -15,6 +15,11 @@ scipy==1.13.1 # 科学技術計算ライブラリ
 tensorflow==2.19.0 # 深層学習ライブラリ（Python 3.12対応、numpy<2.2.0制限）
 pillow==10.3.0 # 画像処理ライブラリ
 
+## 評価・可視化
+scikit-learn==1.5.0  # モデル評価指標（分類レポートなど）
+matplotlib==3.8.4    # グラフ描画用（Python 3.12対応）
+seaborn==0.13.2      # 混同行列の視覚化に便利
+
 ## Jupyter開発環境
 jupyterlab==3.5.3 # Jupyterノートブックの次世代UI（Rust不要な最終バージョン）
 ipykernel==6.29.4 # JupyterでPythonコードを実行するカーネル
